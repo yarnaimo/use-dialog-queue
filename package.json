@@ -19,13 +19,13 @@
     "ts-node": "ts-node"
   },
   "dependencies": {
+    "@types/muibox": "^1.3.1",
     "muibox": "^1.5.0"
   },
   "devDependencies": {
     "@arkweid/lefthook": "^0.7.6",
     "@sindresorhus/tsconfig": "^1.0.2",
     "@types/jest": "^26.0.23",
-    "@types/muibox": "^1.3.1",
     "@types/prettier": "^2.3.0",
     "@types/react": "^17.0.11",
     "@yarnaimo/eslint-config": "^0.2.3",
